@@ -1,12 +1,8 @@
 /*
-	~ hbs.is.js ~
-	test if input is of a certain type
-
-	Chris Swithinbank <swithinbank@gmail.com> http://www.chrisswithinbank.net
- */
-
- // dev settings
- autowatch = 1;
+  hbs.is.js
+  test if input is of a certain type
+  Chris Swithinbank <swithinbank@gmail.com> http://www.chrisswithinbank.net
+*/
 
 // global code
 inlets = 1;
