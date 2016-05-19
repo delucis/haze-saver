@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "R-gain-264ml",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"R-gain-264ml-chan" : [ 1 ],
+					"R-gain-264ml-num" : [ 6 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

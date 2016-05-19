@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "l-tape-a-264ml",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"l-tape-a-264ml-chan" : [ 1 ],
+					"l-tape-a-264ml-num" : [ 4 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"l-tape-a-264ml-chan" : [ 1 ],
+					"l-tape-a-264ml-num" : [ 71 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

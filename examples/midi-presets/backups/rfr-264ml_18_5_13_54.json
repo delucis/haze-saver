@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "rfr-264ml",
+		"slots" : 		{
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"rfr-264ml-chan" : [ 1 ],
+					"rfr-264ml-num" : [ 18 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

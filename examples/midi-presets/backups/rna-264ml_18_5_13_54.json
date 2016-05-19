@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "rna-264ml",
+		"slots" : 		{
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"rna-264ml-chan" : [ 1 ],
+					"rna-264ml-num" : [ 2 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

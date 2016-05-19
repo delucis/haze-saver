@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "a-264ml",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"a-264ml-chan" : [ 1 ],
+					"a-264ml-num" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"a-264ml-chan" : [ 1 ],
+					"a-264ml-num" : [ 71 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

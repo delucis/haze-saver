@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "rsa-264ml",
+		"slots" : 		{
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"rsa-264ml-chan" : [ 1 ],
+					"rsa-264ml-num" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
