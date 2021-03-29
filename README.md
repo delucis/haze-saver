@@ -26,6 +26,11 @@ A performance of _union|haze_ requires the following technical set-up for this p
 - two small transducers/vibration speakers
 - audio interface or stereo splitter to send the left output to the left transducer and the right output to the right transducer
 
+(Additionally the piece is fully amplified, with the aluminium sheets also being amplified. See the score for more details.)
+
+![Diagram of the performance set-up](/media/setup-diagram.png)
+
+
 
 ## Operation
 
