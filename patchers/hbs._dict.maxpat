@@ -434,7 +434,7 @@
 					"destination" : [ "obj-5", 0 ],
 					"disabled" : 0,
 					"hidden" : 0,
-					"midpoints" : [ 39.5, 293.5, 264.5, 293.5 ],
+					"midpoints" : [ 39.5, 293.5, hbs.5, 293.5 ],
 					"source" : [ "obj-23", 0 ]
 				}
 
